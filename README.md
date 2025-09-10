@@ -42,6 +42,7 @@ This project was created as part of my internship assignment to practice front-e
 - `styles.css` → Styling & design  
 - `script.js` → Calculator logic (with comments)  
 - `README.md` → Documentation (this file)  
+- `screenshot-new.png` → Project screenshot  
 
 ---
 
@@ -53,6 +54,7 @@ This project was created as part of my internship assignment to practice front-e
 3. Start calculating 🎉
 
 ---
-
 ## ✨ Screenshot
-![Calculator Screenshot](screenshot.png)
+Here’s how the calculator looks:  
+
+![Calculator Screenshot](screenshot-new.png)
